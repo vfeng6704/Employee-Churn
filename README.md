@@ -1,4 +1,4 @@
-# Executive Summary
+## Executive Summary
 This project focuses on understanding the factors behind employee churn. In a knowledge-driven economy, human capital is vital. Our aim is to provide actionable insights for HR, enabling them to understand and address the key factors influencing employee turnover. Leveraging an XGBoost model, we seek to identify at-risk employees, facilitating timely intervention strategies that could significantly improve retention rates and overall employee satisfaction.
 
 ## Problem Definition
